@@ -1,1 +1,21 @@
-# Top-technology-books-of-all-time
+<ul>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(1).pdf" style="text-decoration:none;">The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(2).pdf" style="text-decoration:none;">Accidental Empires: How the Boys of Silicon Valley Make Their Millions, Battle Foreign Competition, and Still Can't Get a Date </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(3).pdf" style="text-decoration:none;">The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(4).pdf" style="text-decoration:none;"> The New New Thing: A Silicon Valley Story </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(5).pdf" style="text-decoration:none;">Free: The Future of a Radical Price</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(6).pdf" style="text-decoration:none;">Hackers: Heroes of the Computer Revolution </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(7).pdf" style="text-decoration:none;">Steve Jobs</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(8).pdf" style="text-decoration:none;">The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(9).pdf" style="text-decoration:none;">The Long Tail: Why the Future of Business Is Selling Less of More </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(10).pdf" style="text-decoration:none;">Neuromancer </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(11).pdf" style="text-decoration:none;"> Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company and Career</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(12).pdf" style="text-decoration:none;">Outliers: The Story of Success </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(13).pdf" style="text-decoration:none;">Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100 </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(14).pdf" style="text-decoration:none;">The Soul of a New Machine</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(15).pdf" style="text-decoration:none;">The World Is Flat: A Brief History of the Twenty-first Century </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(16).pdf" style="text-decoration:none;">Snow Crash</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(17).pdf" style="text-decoration:none;">The Singularity Is Near: When Humans Transcend Biology </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-technology-books-of-all-time/blob/master/ttec(18).pdf" style="text-decoration:none;">The Age of Spiritual Machines: When Computers Exceed Human Intelligence </a></b></li>
+               
+            </ul>
